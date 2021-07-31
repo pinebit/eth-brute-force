@@ -2,13 +2,13 @@
 
 A tiny command line app to find the private key matching the given ETH address.
 
-# usage
+## usage
 
 `go run main.go 0x1234567890123456789012345678901234567890`
 
 where `0x1234567890123456789012345678901234567890` is the ethereum address.
 
-# why?
+## why?
 
 Every other blockchain engineer implements this exercise, for fun.
 
